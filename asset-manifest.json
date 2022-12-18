@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HeyAmSoumya/TextUtils_ReactApp.git/static/css/main.fa75c7fc.css",
+    "main.js": "/HeyAmSoumya/TextUtils_ReactApp.git/static/js/main.1b84cc48.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HeyAmSoumya/TextUtils_ReactApp.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/HeyAmSoumya/TextUtils_ReactApp.git/index.html",
+    "main.fa75c7fc.css.map": "/HeyAmSoumya/TextUtils_ReactApp.git/static/css/main.fa75c7fc.css.map",
+    "main.1b84cc48.js.map": "/HeyAmSoumya/TextUtils_ReactApp.git/static/js/main.1b84cc48.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HeyAmSoumya/TextUtils_ReactApp.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa75c7fc.css",
+    "static/js/main.1b84cc48.js"
+  ]
+}
